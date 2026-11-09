@@ -1,6 +1,6 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
-*.py[cod]
+
 *$py.class
 
 # C extensions
@@ -26,6 +26,9 @@ share/python-wheels/
 *.egg
 MANIFEST
 
+<<<<<<< HEAD
+=======
+
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
@@ -40,7 +43,7 @@ htmlcov/
 nosetests.xml
 coverage.xml
 *.cover
-*.py,cover
+
 .hypothesis/
 .pytest_cache/
 cover/
@@ -49,17 +52,12 @@ cover/
 *.mo
 *.pot
 
-# Django stuff (if applicable)
-*.log
+
 local_settings.py
 db.sqlite3
 db.sqlite3-journal
 
-# Flask stuff (if applicable)
-instance/
-.webassets-cache
 
-# Scrapy stuff (if applicable)
 .scrapy
 
 # Sphinx documentation
@@ -72,6 +70,7 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+<<<<<<< HEAD
 # pyenv
 #   For a library or project, you might want to ignore this file itself, but it's
 #   sometimes useful to have it tracked if you want to be strict about python versions:
@@ -96,13 +95,15 @@ target/
 
 # Virtual Environments
 .env
-.venv
+=======
+
 env/
 venv/
 ENV/
 env.bak/
 venv.bak/
 
+<<<<<<< HEAD
 # Operating System files
 .DS_Store
 .DS_Store?
@@ -111,3 +112,4 @@ venv.bak/
 .Trashes
 ehthumbs.db
 Thumbs.db
+=======
