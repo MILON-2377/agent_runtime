@@ -1,0 +1,113 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff (if applicable)
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Flask stuff (if applicable)
+instance/
+.webassets-cache
+
+# Scrapy stuff (if applicable)
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+.pybuilder/
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+#   For a library or project, you might want to ignore this file itself, but it's
+#   sometimes useful to have it tracked if you want to be strict about python versions:
+.python-version
+
+# pipenv
+#   Pell-mell dependency lock files (uncomment if you don't want to track them)
+# pipfile.lock
+
+# Poetry
+#   Similar to pipenv, usually you want poetry.lock tracked, but poetry cache can be ignored:
+.poetry.lock
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+.project
+.pydevproject
+.settings/
+
+# Virtual Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Operating System files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
